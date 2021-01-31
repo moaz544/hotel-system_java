@@ -152,6 +152,16 @@ Now all the operating windows of the program have been explained All_Rooms_Types
 
 
 
+The conclusion: 
+ 
+We learned how to create desktop software in Java and created a complete system project for a hotel with databases 
+ 
+ 
+Refrences: 
+1-https://netbeans.org/downloads/6.1/index.html 
+2-https://www.apachefriends.org/index.html 
+3-https://guigarage.com/javafx-book/ 
+4-https://stackoverflow.com/questions/22433952/what-are-javafx-fxml-and-scenebuilder 
 
 
 
